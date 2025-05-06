@@ -1,6 +1,6 @@
 package dev.ms.accounts.constants;
 
-public class AccountConstants {
+public final class AccountConstants {
 	private AccountConstants() {
 	}
 
